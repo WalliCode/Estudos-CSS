@@ -11,3 +11,7 @@
     margin: 5px;
     float: left;
 }
+
+.clear{
+    clear: both;
+}
