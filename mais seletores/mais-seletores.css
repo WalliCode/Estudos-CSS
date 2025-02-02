@@ -27,3 +27,11 @@ li>a{
     color: red;
     text-decoration: none;
 }
+
+h1+p{
+    color: red;
+}
+
+h1~p{
+    color: aqua;
+}
